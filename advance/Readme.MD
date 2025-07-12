@@ -58,8 +58,8 @@ This repository contains 20 advanced Ruby programs demonstrating professional-gr
 
 2. Clone repository:
    ```bash
-   git clone https://github.com/your-username/advanced-ruby.git
-   cd advanced-ruby
+   git clone https://github.com/Kirankumarvel/Ruby-Learning.git
+   cd advance
    ```
 
 3. Install dependencies:
