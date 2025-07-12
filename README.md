@@ -23,7 +23,7 @@ A complete, structured curriculum for mastering Ruby programming from fundamenta
 - Object-oriented fundamentals
 - Basic I/O operations
 
-[👉 View Beginner Curriculum](https://github.com/Kirankumarvel/Ruby-Learning/blob/main/medium/Readme.MD)
+[👉 View Beginner Curriculum](https://github.com/Kirankumarvel/Ruby-Learning/blob/main/beginner/Readme.MD)
 
 ### 🚀 Medium Level (20 Programs)
 - Metaprogramming techniques
