@@ -23,7 +23,7 @@ A complete, structured curriculum for mastering Ruby programming from fundamenta
 - Object-oriented fundamentals
 - Basic I/O operations
 
-[👉 View Beginner Curriculum](/beginner/README.md)
+[👉 View Beginner Curriculum](https://github.com/Kirankumarvel/Ruby-Learning/blob/main/medium/Readme.MD)
 
 ### 🚀 Medium Level (20 Programs)
 - Metaprogramming techniques
@@ -31,7 +31,7 @@ A complete, structured curriculum for mastering Ruby programming from fundamenta
 - Concurrency basics
 - Gem development
 
-[👉 View Medium Curriculum](/medium/README.md)
+[👉 View Medium Curriculum](https://github.com/Kirankumarvel/Ruby-Learning/blob/main/medium/Readme.MD)
 
 ### 🔥 Advanced Level (20 Programs)
 - VM internals and optimization
@@ -39,7 +39,7 @@ A complete, structured curriculum for mastering Ruby programming from fundamenta
 - Advanced concurrency models
 - Blockchain and ML implementations
 
-[👉 View Advanced Curriculum](/advanced/README.md)
+[👉 View Advanced Curriculum](https://github.com/Kirankumarvel/Ruby-Learning/blob/main/advance/Readme.MD)
 
 ## Repository Structure
 
