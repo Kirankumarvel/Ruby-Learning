@@ -30,22 +30,22 @@ This repository contains beginner-friendly Ruby programs covering fundamental pr
 
 | File | Concept | Description |
 |------|---------|-------------|
-| [001_variables.rb](beginner/001_variables.rb) | Variables | Variable types, naming conventions, and scope |
-| [002_data_types.rb](beginner/002_data_types.rb) | Data Types | Basic Ruby data types and their usage |
-| [003_strings.rb](beginner/003_strings.rb) | Strings | String manipulation and common methods |
-| [004_numbers.rb](beginner/004_numbers.rb) | Numbers | Numeric operations and conversions |
-| [005_arrays.rb](beginner/005_arrays.rb) | Arrays | Array creation, manipulation, and iteration |
-| [006_hashes.rb](beginner/006_hashes.rb) | Hashes | Key-value pairs and hash operations |
-| [007_operators.rb](beginner/007_operators.rb) | Operators | Arithmetic, comparison, and logical operators |
-| [008_conditionals.rb](beginner/008_conditionals.rb) | Conditionals | if/else/elsif, unless, and case/when statements |
-| [009_loops.rb](beginner/009_loops.rb) | Loops | while, until, for, and each loops |
-| [010_methods.rb](beginner/010_methods.rb) | Methods | Method definition and usage |
-| [011_blocks.rb](beginner/011_blocks.rb) | Blocks | Block syntax and usage with iterators |
-| [012_input_output.rb](beginner/012_input_output.rb) | I/O | User input and output methods |
-| [013_file_io.rb](beginner/013_file_io.rb) | File I/O | Reading from and writing to files |
-| [014_classes_objects.rb](beginner/014_classes_objects.rb) | Classes & Objects | Basic OOP concepts in Ruby |
-| [015_inheritance.rb](beginner/015_inheritance.rb) | Inheritance | Class inheritance and method overriding |
-| [016_modules.rb](beginner/016_modules.rb) | Modules | Namespacing and mixins |
+| [001_variables.rb](/001_variables.rb) | Variables | Variable types, naming conventions, and scope |
+| [002_data_types.rb](/002_data_types.rb) | Data Types | Basic Ruby data types and their usage |
+| [003_strings.rb](/003_strings.rb) | Strings | String manipulation and common methods |
+| [004_numbers.rb](/004_numbers.rb) | Numbers | Numeric operations and conversions |
+| [005_arrays.rb](/005_arrays.rb) | Arrays | Array creation, manipulation, and iteration |
+| [006_hashes.rb](/006_hashes.rb) | Hashes | Key-value pairs and hash operations |
+| [007_operators.rb](/007_operators.rb) | Operators | Arithmetic, comparison, and logical operators |
+| [008_conditionals.rb](/008_conditionals.rb) | Conditionals | if/else/elsif, unless, and case/when statements |
+| [009_loops.rb](/009_loops.rb) | Loops | while, until, for, and each loops |
+| [010_methods.rb](/010_methods.rb) | Methods | Method definition and usage |
+| [011_blocks.rb](/011_blocks.rb) | Blocks | Block syntax and usage with iterators |
+| [012_input_output.rb](/012_input_output.rb) | I/O | User input and output methods |
+| [013_file_io.rb](/013_file_io.rb) | File I/O | Reading from and writing to files |
+| [014_classes_objects.rb](/014_classes_objects.rb) | Classes & Objects | Basic OOP concepts in Ruby |
+| [015_inheritance.rb](/015_inheritance.rb) | Inheritance | Class inheritance and method overriding |
+| [016_modules.rb](/016_modules.rb) | Modules | Namespacing and mixins |
 
 ## How to Use
 
